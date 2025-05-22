@@ -1,9 +1,5 @@
-# GitHub Pull Request Practice
 
-Welcome! 👋  
-This repository is for practicing GitHub workflows like forking, branching, committing, and opening pull requests.
 
-## 🎯 Objective
 
 
 ---
